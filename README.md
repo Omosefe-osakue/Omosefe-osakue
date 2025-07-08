@@ -5,11 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Omosefe-osakue](https://github.com/Omosefe-osakue)
 
-- 💬 Ask me about **Python, Java, React**
+- 💬 Ask me about **Python, Java, React, C#, .NET, Javascript, SML**
 
 - 📫 How to reach me **liza.osakue@gmail.com**
-
-- ⚡ Fun fact **I actually have a social life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
