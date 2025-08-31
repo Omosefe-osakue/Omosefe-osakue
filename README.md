@@ -1,11 +1,11 @@
 **<h1 align="center">Hi 👋, I'm Omosefe Osakue</h1>**
 <h3 align="center">A passionate Software Engineer based in the Birmingham ,UK.</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Omosefe-osakue](https://github.com/Omosefe-osakue)
 
-- 💬 Ask me about **Python, Java, React, C#, .NET, Javascript, SML**
+- 💬 Ask me about **Python, Java, React, .NET, Javascript, SML, Tailwind**
 
 - 📫 How to reach me **liza.osakue@gmail.com**
 
